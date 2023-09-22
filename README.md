@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hello, I'm Ashton, but my actual name is Ashok Nallasivam. Feel free to call me by either name; I respond to both!" 👋
+![](https://github-readme-stats.vercel.app/api?username=ashoknallasivam&show_icons=true&count_private=true)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashoknallasivam&layout=compact)
 <!--
 **ashoknallasivam/ashoknallasivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

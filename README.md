@@ -1,4 +1,3 @@
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashoknallasivam&layout=compact)
 <img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
 
 <span style="float:right;padding:6px"> 
@@ -48,7 +47,7 @@
 * Languages: English (good), Cantonese (fluent/native), Mandarin (good)
 * Availability: 1 month's notice
 
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashoknallasivam&layout=compact)
 <!--
 **ashoknallasivam/ashoknallasivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

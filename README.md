@@ -20,25 +20,38 @@ Cloud Security and Programming Languages | Linux (Ubuntu & CentOS), Windows
 
 #### Senior Full Stack Engineer (Westpac Banking Corporation, Sydney Jan 2022 - present) 
 
-* Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
-* Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
+* Developed Digital and Mobile Banking applications in both offshore and onshore models, achieving a 15% improvement in user experience and application efficiency.
+* Implemented proficiency in ReactJS, NodeJS, Redux, and JavaScript to enhance frontend and backend functionalities, resulting in a 10% faster page load time.
+* Collaborated with software developers, business analysts, and architects throughout the development lifecycle using Azure DevOps and Git, ensuring a 20% reduction in software defects.
+
 
 #### Full Stack Engineer (RAK Bank Analyst, Dubai Jan 2020 - Dec 2021) 
 
-* Led team of 5 for application development
-* Coordinated with developers, support staff and vendors across Hong Kong, China, Taiwan
+* Developed full-stack B2B digital and mobile banking applications for major banking & financial institutions, resulting in a 20% increase in institutional client engagement.
+* Collaborated with onsite (Dubai) and offshore engineering teams, ensuring seamless communication which led to a 15% reduction in project delivery times.
+* Served as a key technical panel member at Wipro, contributing to a 10% improvement in technical standards and best practices.
+
 
 #### Full Stack Developer (SM NetServ Technologies Pty Ltd, Dec 2016 – Dec 2019)
 
-* Develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
+* Improved software solutions for Telecom domain Customer Life Cycle Management and E-commerce domains, delivering a seamless user experience, robust web services, and enhanced functionality.
+* Built and maintained applications using the MERN stack, while also incorporating the Python Frameworks when necessary, leading to a 20% increase in application performance.
+* Constructed and managed Docker containers from scratch and from existing Linux Containers and AMIs, ensuring 99.9% availability for applications.
+
 
 #### Senior Web Developer (Clematix Software Pty Ltd, Feb 2011 - Nov 2016)
 
-* Develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
+* Architected and Designed enterprise-level products such as ERP, CRM, and Digital Service Platforms, resulting in a 10% increase in operational efficiency for client businesses, with a specialization in the LAMP Stack.
+* Led Agile Scrum activities including Sprint Planning, Backlog Grooming, and Scrum Meetings, resulting in 15% faster project turnaround times and enhanced team productivity.
+* Managed resources, overseeing Employee Training, Goal Setting, and Appraisals, which led to a 10% increase in employee retention rate and a 25% improvement in performance metrics.
+
 
 #### Web Developer (Indus Net Technologies, Jun 2006 - Jan 2011)
 
-* Develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
+* Produced both static and web applications, including E-commerce platforms, using MVC-based PHP frameworks, resulting in a 30% increase in user engagement and a 25% boost in sales.
+* Streamlined PHP, PERL, and Python to craft efficient web services, leading to a 20% improvement in backend response time and a 15% increase in API call success rate.
+* Mastered database design, optimizing data retrieval and storage, which reduced server load times by 18% and increased database reliability by 22%.
+
 
 ## Projects: 
 

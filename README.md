@@ -60,16 +60,12 @@ Cloud Security and Programming Languages | Linux (Ubuntu & CentOS), Windows
 
 ## Education & Qualifications
 
-* AWS Certification (2021/12)
-* Oracle Certified Professional (2020/02)
-* Project Management Professional (PMP) (2018/10)
-* Bachelor of Computer Science (Sep 2004)
-* The Chinese University of Hong Kong (2000 - 2004)
+* Bachelor of Computer Science, Sethu Institute of Technology, India
 
 ## Misc. Information
 
-* Languages: English (good), Cantonese (fluent/native), Mandarin (good)
-* Availability: 1 month's notice
+* Languages: English (good),Tamil (fluent/native)
+* Availability: Immediate
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashoknallasivam&layout=compact)
 <!--

@@ -18,17 +18,25 @@ Cloud Security and Programming Languages | Linux (Ubuntu & CentOS), Windows
 
 ## Working Experience
 
-#### Current Company (Project Manager, 2015/08 - present) 
+#### Senior Full Stack Engineer (Westpac Banking Corporation, Sydney Jan 2022 - present) 
 
 * Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
 * Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
 
-#### Second Company (System Analyst, 2011/06 - 2015/07) 
+#### Full Stack Engineer (RAK Bank Analyst, Dubai Jan 2020 - Dec 2021) 
 
 * Led team of 5 for application development
 * Coordinated with developers, support staff and vendors across Hong Kong, China, Taiwan
 
-#### My first Company (Analyst Programmer, 2005/01 - 2011/05)
+#### Full Stack Developer (SM NetServ Technologies Pty Ltd, Dec 2016 – Dec 2019)
+
+* Develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
+
+#### Senior Web Developer (Clematix Software Pty Ltd, Feb 2011 - Nov 2016)
+
+* Develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
+
+#### Web Developer (Indus Net Technologies, Jun 2006 - Jan 2011)
 
 * Develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
 

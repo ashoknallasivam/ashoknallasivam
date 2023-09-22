@@ -6,7 +6,7 @@
 
 ## Skill Summary
 
-|        |           | 
+
 | --- | ----------- |
 | Full Stack and Web Development | ReactJS, Node.js, JavaScript, MongoDB, Express.js
 Front-end and Back-end Development | React Native, Typescript, HTML5, CSS3, Bootstrap

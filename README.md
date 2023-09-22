@@ -1,17 +1,14 @@
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
-
 <span style="float:right;padding:6px"> 
-  someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Chinese
+  ashton.nallasivam2023@email.com <br> mobile: +61 413835725 <br> Location: Sydney, NSW
 </span>
 
 # Casualwriter  
 
 ## Executive Summary
 
-* 10 years project/team management experience
-* PMP, OCP, AWS Certification
-* Hand-on experience in oracle database
-* Proficient in JavaScript, Java, Powerbuilder
+* Over a 15-year span in the digital realm, carved out a reputation as a Full Stack Engineer with a specialty in B2B digital banking application development, with top financial industries such as Westpac and RAK Bank. Expertise spanned from React JS and Node JS, MongoDB to Python always ensuring applications were secure and scalable
+* Adhered to best practices like SDLC, Lean, Agile, and CI/CD methodologies. Beyond technical capabilities, exhibited strong communication, displayed leadership qualities, and approached challenges with a strategic mindset
+* Championed team building and mentoring throughout a journey in the digital banking application landscape, with each project and success metric emphasizing proficiency and commitment
 
 ## Working Experience
 

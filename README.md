@@ -10,21 +10,23 @@
 * Adhered to best practices like SDLC, Lean, Agile, and CI/CD methodologies. Beyond technical capabilities, exhibited strong communication, displayed leadership qualities, and approached challenges with a strategic mindset
 * Championed team building and mentoring throughout a journey in the digital banking application landscape, with each project and success metric emphasizing proficiency and commitment
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7107521809083682816" height="1777" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
-•	Full Stack and Web Development
+| •	Full Stack and Web Development
 •	Front-end and Back-end Development
 •	Software Application Development
 •	Agile Project Development
 •	Docker Container Orchestration
 •	Data Integrations and Data Architecture
-•	Cloud Security and Programming Languages	•	ReactJS, Node.js, JavaScript, MongoDB, Express.js
+•	Cloud Security and Programming Languages | 	•	ReactJS, Node.js, JavaScript, MongoDB, Express.js
 •	React Native, Typescript, HTML5, CSS3, Bootstrap
 •	Python, Django, Flask, MySQL, PHP, PostgreSQL, 
 •	Restful Web services, JSON, Webpack, Babel 
 •	Amazon Web Services (AWS), Azure Devops, GitLab
 •	GitLab, JIRA, CI/CD, Jenkins, Team city, Docker
-•	Linux (Ubuntu & CentOS), Windows
+•	Linux (Ubuntu & CentOS), Windows |
+
+
+
 
 
 ## Working Experience

@@ -12,23 +12,13 @@
 
 |        |           | 
 | --- | ----------- |
-| Full Stack and Web Development
-Front-end and Back-end Development
-Software Application Development
-Agile Project Development
-Docker Container Orchestration
-Data Integrations and Data Architecture
-Cloud Security and Programming Languages | 	ReactJS, Node.js, JavaScript, MongoDB, Express.js
-React Native, Typescript, HTML5, CSS3, Bootstrap
-Python, Django, Flask, MySQL, PHP, PostgreSQL, 
-Restful Web services, JSON, Webpack, Babel 
-Amazon Web Services (AWS), Azure Devops, GitLab
-GitLab, JIRA, CI/CD, Jenkins, Team city, Docker
-Linux (Ubuntu & CentOS), Windows |
-
-
-
-
+| Full Stack and Web Development | ReactJS, Node.js, JavaScript, MongoDB, Express.js
+Front-end and Back-end Development | React Native, Typescript, HTML5, CSS3, Bootstrap
+Software Application Development | Python, Django, Flask, MySQL, PHP, PostgreSQL
+Agile Project Development | Restful Web services, JSON, Webpack, Babel
+Docker Container Orchestration | Amazon Web Services (AWS), Azure Devops, GitLab
+Data Integrations and Data Architecture | GitLab, JIRA, CI/CD, Jenkins, Team city, Docker
+Cloud Security and Programming Languages | Linux (Ubuntu & CentOS), Windows
 
 ## Working Experience
 

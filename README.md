@@ -1,6 +1,6 @@
 # Ashton Nallasivam (Ashok)
 
-* Over a 15-year span in the digital realm, carved out a reputation as a Full Stack Engineer with a specialty in B2B digital banking application development, with top financial industries such as Westpac and RAK Bank. Expertise spanned from React JS and Node JS, MongoDB to Python always ensuring applications were secure and scalable
+* Over a 15-year span in the digital realm, carved out a reputation as a ###### Full Stack Engineer with a specialty in B2B digital banking application development, with top financial industries such as Westpac and RAK Bank. Expertise spanned from React JS and Node JS, MongoDB to Python always ensuring applications were secure and scalable
 * Adhered to best practices like SDLC, Lean, Agile, and CI/CD methodologies. Beyond technical capabilities, exhibited strong communication, displayed leadership qualities, and approached challenges with a strategic mindset
 * Championed team building and mentoring throughout a journey in the digital banking application landscape, with each project and success metric emphasizing proficiency and commitment
 

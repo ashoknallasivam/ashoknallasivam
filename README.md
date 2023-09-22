@@ -10,9 +10,7 @@
 * Adhered to best practices like SDLC, Lean, Agile, and CI/CD methodologies. Beyond technical capabilities, exhibited strong communication, displayed leadership qualities, and approached challenges with a strategic mindset
 * Championed team building and mentoring throughout a journey in the digital banking application landscape, with each project and success metric emphasizing proficiency and commitment
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7107521809083682816" height="1777" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 •	Full Stack and Web Development
 •	Front-end and Back-end Development

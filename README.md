@@ -52,12 +52,6 @@ Cloud Security and Programming Languages | Linux (Ubuntu & CentOS), Windows
 * Streamlined PHP, PERL, and Python to craft efficient web services, leading to a 20% improvement in backend response time and a 15% increase in API call success rate.
 * Mastered database design, optimizing data retrieval and storage, which reduced server load times by 18% and increased database reliability by 22%.
 
-
-## Projects: 
-
-* [Casual-Markdown](https://github.com/casualwriter/powerpage) - a lightweight markdown parser
-* [Powerpage](https://github.com/casualwriter/powerpage) - a lightweight browser for html applications
-
 ## Education & Qualifications
 
 * Bachelor of Computer Science, Sethu Institute of Technology, India

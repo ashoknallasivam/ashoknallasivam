@@ -16,7 +16,14 @@ Cloud Security and Programming Languages | Linux (Ubuntu & CentOS), Windows
 
 ## Working Experience
 
-#### Senior Full Stack Engineer (Westpac Banking Corporation, Sydney Jan 2022 - present) 
+#### Senior Front End Engineer (Accenture Australia - NBN, Sydney Jan 2023 - present)
+
+* Devised and implemented responsive and interactive user interfaces using React JS, JavaScript, and TypeScript, in conjunction with Material UI, HTML & CSS, resulting in a 20% increase in institutional client engagement.
+* Crafted RESTful API endpoints using Node JS, Express to optimize data communication between the frontend and backend, resulting in a notable 40% improvement in API security, documentation, and versioning.
+* Developed and maintained Infrastructure as Code (IaC) scripts using Terraform to efficiently provision and manage AWS resources, resulting in a 30% reduction in manual provisioning time
+
+
+#### Senior Full Stack Engineer (Westpac Banking Corporation, Sydney Jan 2022 - Dec 2023) 
 
 * Developed Digital and Mobile Banking applications in both offshore and onshore models, achieving a 15% improvement in user experience and application efficiency.
 * Implemented proficiency in ReactJS, NodeJS, Redux, and JavaScript to enhance frontend and backend functionalities, resulting in a 10% faster page load time.

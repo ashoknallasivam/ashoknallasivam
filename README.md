@@ -16,7 +16,7 @@ Cloud Security and Programming Languages | Linux (Ubuntu & CentOS), Windows
 
 ## Working Experience
 
-#### Senior Front End Engineer (Accenture Australia - NBN, Sydney Jan 2023 - present)
+#### Senior Front End Engineer (Accenture Australia - NBN, Sydney Jan 2024 - present)
 
 * Devised and implemented responsive and interactive user interfaces using React JS, JavaScript, and TypeScript, in conjunction with Material UI, HTML & CSS, resulting in a 20% increase in institutional client engagement.
 * Crafted RESTful API endpoints using Node JS, Express to optimize data communication between the frontend and backend, resulting in a notable 40% improvement in API security, documentation, and versioning.

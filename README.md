@@ -1,4 +1,4 @@
-# Ashok Nallasivam (Ashton)
+# Ashok Nallasivam
 
 * With over 16 years of experience, I specialize in Full Stack Engineering and DevOps for B2B digital banking apps and telecommunications platforms. Proficient in React JS, Node JS, Java Spring Boot and more, I create secure, scalable applications. Additionally, I'm skilled in AWS, Azure, Jenkins, Docker, Terraform, and configuration management, adhering to SDLC and Agile practices for effective project delivery
 
